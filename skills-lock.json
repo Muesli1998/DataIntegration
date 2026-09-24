@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "data-warehousing": {
+      "source": "NeverSight/skills_feed",
+      "sourceType": "github",
+      "skillPath": "data/skills-md/absolutelyskilled/absolutelyskilled/data-warehousing/SKILL.md",
+      "computedHash": "516002d60dcf0c868e40e18639d964c2586b80fae4a418a5a678d454ac8369a7"
+    }
+  }
+}
